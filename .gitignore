@@ -192,7 +192,6 @@ ModelManifest.xml
 input*/
 output*/
 *.opendb
-*.csv
 *.db
-*.txt
-*.json
+.vs/
+
